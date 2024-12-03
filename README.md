@@ -2,7 +2,7 @@
 
 The main objective of this study is to ----
 
-   > obj 1
+   > Develop an LSTM-based Machine Learning Model for SMS Spam Detection App and assess its accuracy
 
    > obj 2
 
