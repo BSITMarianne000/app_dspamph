@@ -1,6 +1,6 @@
 # D-SpamPH
 
-The main objective of this study is to ----
+The main objective of this study is to develop a mobile application to detect SMS spam and aggregate data to the web for analytical processing
 
    > obj 1
 
